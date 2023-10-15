@@ -5,9 +5,8 @@ This program will take the given input (temperature) and output a value that cor
 
 For example:
 
-=====================
+
 TEMPERATURE CONVERTER
-=====================
 
 Options
 
